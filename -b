@@ -1,0 +1,13 @@
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
+Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+[10:52:51] 'serve' errored after 122 ms
+[10:52:51] Error: listen EADDRINUSE: address already in use 0.0.0.0:3000
+    at Server.setupListenHandle [as _listen2] (net.js:1270:14)
+    at listenInCluster (net.js:1318:12)
+    at doListen (net.js:1451:7)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+[10:52:51] 'default' errored after 34 s
+Warning: React version not specified in eslint-plugin-react settings. See https://github.com/yannickcr/eslint-plugin-react#configuration .
+Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`

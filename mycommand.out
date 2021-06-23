@@ -1,0 +1,5 @@
+nohup: ignoring input
+[12:11:19] Using gulpfile /home/mayaadmin/st2web/gulpfile.js
+[12:11:19] Starting 'serve'...
+[12:11:19] Webserver started at https://0.0.0.0:3000
+[12:11:19] Finished 'serve' after 158 ms
