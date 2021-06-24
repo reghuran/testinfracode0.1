@@ -57,7 +57,7 @@ While `gulp` runs the longest chain of tasks including style compiling, spining 
 
 You can see the whole list of tasks in `gulpfile.js`.
 
-Connecting to st2 server
+Connecting to infracode server
 -------------------------
 Configure the CORS on StackStorm server: on your st2 installation, edit the following lines to [[api] section](https://github.com/StackStorm/st2/blob/master/conf/st2.prod.conf#L3-L10) in `/etc/st2/st2.conf`:
 
