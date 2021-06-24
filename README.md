@@ -5,6 +5,8 @@ StackStorm Web UI
 
 ![st2web](https://user-images.githubusercontent.com/1357357/41534974-bdd8e768-732a-11e8-9ab1-7afcaf29ad23.png)
 
+[alt text](https://github.com/reghuran/testinfracode0.1/blob/master/img/logo.svg?raw=true)
+
 
 Quick start
 -----------
