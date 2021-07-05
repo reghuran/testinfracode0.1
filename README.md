@@ -31,8 +31,7 @@ then you need to globally install `gulp`, `lerna` and `yarn`
 ```shell
 $ sudo npm install -g gulp-cli lerna yarn
 ```
-
-then you need to bootstrap the micromodules
+ need to bootstrap the micromodules
 
 ```shell
 $ lerna bootstrap
